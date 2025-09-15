@@ -5,7 +5,9 @@ A collection of 6 simple Python projects I built while learning the basics of pr
 
 🔹 1. QR Code Generator
 Generates a scannable QR code from text or URL
+
 Uses qrcode and Pillow libraries
+
 Saves output as an image (qrcode.png)
 📂 File: qrcode_generator.py
 📖 Concepts: External libraries, Image processing
