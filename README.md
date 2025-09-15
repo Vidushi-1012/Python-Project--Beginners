@@ -57,26 +57,25 @@ These projects helped me practice problem-solving, external libraries, and real-
 ---
 
 ## 🛠️ How to Run These Projects  
-bash
-git clone https://github.com/your-username/python-beginner-projects.git
-cd python-beginner-projects
-python filename.py
-
+- bash
+- git clone https://github.com/your-username/python-beginner-projects.git
+- cd python-beginner-projects
+- python filename.py
 
 --------------
 
 🌱 What I Learned
-Writing clean and reusable Python code
-Handling user input and files
-Using external libraries like qrcode and Pillow
-Applying programming logic to build real-world utilities
+- Writing clean and reusable Python code
+- Handling user input and files
+- Using external libraries like qrcode and Pillow
+- Applying programming logic to build real-world utilities
 
 -----------------
 
 🚀 Future Scope
-Convert projects into GUI apps with Tkinter
-Deploy some projects as small web apps (Flask/Streamlit)
-Add more beginner-friendly mini projects
+- Convert projects into GUI apps with Tkinter
+- Deploy some projects as small web apps (Flask/Streamlit)
+- Add more beginner-friendly mini projects
 
 ----------------------
 
